@@ -1,0 +1,7 @@
+.navWrapper {
+  display: flex;
+  justify-content: space-between;
+  background-color: #cde5cd;
+  padding: 40px;
+  align-items: center;
+}

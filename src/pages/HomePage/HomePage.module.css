@@ -1,0 +1,17 @@
+.homePageWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 70px;
+}
+
+.homePageTitle {
+  text-transform: uppercase;
+  color: #3f5c15;
+  font-size: 30px;
+}
+
+.homePageDescr {
+  font-size: 20px;
+    text-transform: uppercase;
+}
